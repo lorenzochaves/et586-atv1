@@ -1,4 +1,4 @@
-# Análise Descritiva de Dados com o Dataset Pokémon 📊ϞϞ
+# ⚡⚡ Análise Descritiva de Dados com o Dataset Pokémon 
 
 Este repositório contém um Jupyter Notebook (`atividade1.ipynb`) e o dataset (`Pokemon.csv`) utilizado para uma aula introdutória sobre estatística descritiva em Python. O objetivo é guiar os alunos através da exploração de dados, cálculo de medidas de tendência central e dispersão, criação de tabelas de frequência, visualização de dados e análise de correlações.
 
@@ -38,7 +38,7 @@ Ao aceitar esta atividade, seu repositório conterá:
 
 2.  **Acesse e Execute o Notebook:** Você tem algumas opções:
 
-    * **Opção B: Ambiente Jupyter Local (na sua máquina)**
+    * **Opção A: Ambiente Jupyter Local (na sua máquina)**
         1.  Copie a URL do SEU repositório da atividade no GitHub.
         2.  Clone o repositório para sua máquina:
             ```bash
@@ -57,7 +57,7 @@ Ao aceitar esta atividade, seu repositório conterá:
             ```
         6.  No navegador, abra o arquivo `atividade1.ipynb`. O arquivo `Pokemon.csv` já estará na mesma pasta, então o comando `pd.read_csv('Pokemon.csv')` no notebook deve funcionar diretamente.
 
-    * **Opção C: GitHub Codespaces (mais fácil)**
+    * **Opção B: GitHub Codespaces (mais fácil)**
         1.  Na página do SEU repositório da atividade no GitHub.
         2.  Clique no botão verde `<> Code`.
         3.  Selecione a aba "Codespaces".
